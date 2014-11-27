@@ -1,0 +1,16 @@
+Marry:
+  <name>:
+    propose: <name>
+    engaged: <name>
+    married: <name>
+    marriage: <true/false>
+Date:
+  <name>:
+    propose: <name>
+    dating: <name>
+    dated: <true/false>
+Blocked:
+  <name>:
+    block: - <name>
+           - <name>
+Updater: <true/false>

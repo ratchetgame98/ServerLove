@@ -1,0 +1,12 @@
+name: ServerLove
+main: me.ratchetgame98.love.ServerLove
+version: 1.2.1
+description: >
+             Server Love. Marry Date and Love your peers
+commands:
+  marry:
+    description: Marry other players. Includes more arguments
+  date:
+    description: Date other players. Includes more arguments
+  serverlove:
+    description: Server Love admin commands and block requests
