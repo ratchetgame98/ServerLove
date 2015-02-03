@@ -14,3 +14,7 @@ Blocked:
     block: - <name>
            - <name>
 Updater: <true/false>
+Inlove:
+    <name>:
+        <name>
+DivorceConfirmation: <true/false>
